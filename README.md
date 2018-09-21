@@ -59,7 +59,7 @@ For deployment please read the
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/openimis/policy_renewal_service_vb/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/openimis/imis_backup_service_vb/tags). 
 
 <!--## User Manual 
 
